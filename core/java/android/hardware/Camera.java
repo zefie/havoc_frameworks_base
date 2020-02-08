@@ -317,7 +317,7 @@ public class Camera {
         if (exposeAuxCamera == false && (numberOfCameras > 2)) {
             numberOfCameras = 2;
         }
-        return numberOfCameras;
+        return 3;
     }
 
     /**
